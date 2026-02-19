@@ -1,0 +1,5 @@
+getgenv().SCRIPT_KEY = "KEYLESS"
+
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/abd3cc54d2dc7de4a091fb19c8f4ea9e15e939e7ecc88b475e6956e8af94ad6f/download"))()
+
+doors keyless
